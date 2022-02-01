@@ -1,2 +1,2 @@
 # todo-list
-Aplicação de uma ToDoList para web
+Aplicação To Do List para web
